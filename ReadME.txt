@@ -1,2 +1,4 @@
-*******************
-el usuario admin es victorsg con contraseña root
+***************
+Usuario Admin: victorsg
+Correo Admin: victorsg@gmail.com
+Password Admin: root
